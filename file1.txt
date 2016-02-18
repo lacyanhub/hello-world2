@@ -1,3 +1,4 @@
 This is file number 1.
 
 New second line added afer commit, from trygit one dir.
+Add this line while supposed in features branch.
