@@ -1,3 +1,3 @@
 This is file number 1.
 
-New second line added afer commit, from trygit dir.
+New second line added afer commit, from trygit one dir.
