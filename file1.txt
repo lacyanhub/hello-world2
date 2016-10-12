@@ -1,4 +1,4 @@
 This is file number 1.
 
 New second line added afer commit, from trygit one dir.
-Add this line after new branch features is created modified this file in that branch and pushed on server.
+Add this 2 line after new branch features is created modified this file in that branch and pushed on server.
