@@ -1,4 +1,8 @@
 
 This is file number 4.
 
+<<<<<<< Updated upstream
 Modifed in branch twbash2 first.
+=======
+Modifed in branch twbash first.
+>>>>>>> Stashed changes
