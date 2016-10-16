@@ -1,3 +1,4 @@
+Change in branch twbash2, 
 This is file number 1.
 
 New second line added afer commit, from trygit one dir.
